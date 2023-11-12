@@ -1,7 +1,7 @@
-# swing_parameteric_strategies
+# swing_parametric_strategies
 
 
-This is the python implementation of two parameteric strategies for swing options pricing. See [arXiv pre-publication](https://arxiv.org/pdf/2306.03822.pdf) for more details. The notebook simulations.ipynb shows how to use the code.
+This is the python implementation of two parametric strategies for swing options pricing. See [arXiv pre-publication](https://arxiv.org/pdf/2306.03822.pdf) for more details. The notebook simulations.ipynb shows how to use the code.
 
 # Citation
 
