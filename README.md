@@ -10,7 +10,7 @@ Cite our paper if it helps your research (only arXiv for now):
 
 ```
 @misc{lemaire2023swing,
-      title={Swing Contract Pricing: A Parametric Approach with Adjoint Automatic Differentiation and Neural Networks}, 
+      title={Swing contract pricing: with and without Neural Networks}, 
       author={Vincent Lemaire and Gilles Pagès and Christian Yeo},
       year={2023},
       eprint={2306.03822},
