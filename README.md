@@ -9,7 +9,7 @@ This is the python implementation of two parametric strategies for swing options
 Cite our paper if it helps your research:
 
 ```
-@article{parametric_start,
+@article{parametric_strat,
 title = {Swing contract pricing: With and without neural networks},
 journal = {Frontiers of Mathematical Finance},
 volume = {3},
