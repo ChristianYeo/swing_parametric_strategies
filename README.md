@@ -6,16 +6,21 @@ This is the python implementation of two parametric strategies for swing options
 # Citation
 
 
-Cite our paper if it helps your research (only arXiv for now):
+Cite our paper if it helps your research:
 
 ```
-@misc{lemaire2023swing,
-      title={Swing contract pricing: with and without Neural Networks}, 
-      author={Vincent Lemaire and Gilles Pagès and Christian Yeo},
-      year={2023},
-      eprint={2306.03822},
-      archivePrefix={arXiv},
-      primaryClass={q-fin.MF}
+@article{parametric_start,
+title = {Swing contract pricing: With and without neural networks},
+journal = {Frontiers of Mathematical Finance},
+volume = {3},
+number = {2},
+pages = {270-303}
+year = {2024},
+issn = {},
+doi = {10.3934/fmf.2024007},
+url = {https://www.aimsciences.org/article/id/66223d90150bdb3c4a1245f1},
+author = {Vincent Lemaire and Gilles Pagès and Christian Yeo},
+keywords = {Swing contracts, stochastic control, stochastic approximation, neural network, Langevin dynamics, greeks}
 }
 ```
 
